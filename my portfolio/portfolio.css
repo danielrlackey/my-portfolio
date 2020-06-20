@@ -1,0 +1,85 @@
+body{
+    background-color: #053377;
+
+}
+
+.header {
+    text-align: center;
+    color: rgb(231, 226, 226);
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8em;
+
+}
+.git{
+    font-size: 40px;
+}
+
+.text {
+    text-align: center;
+    color: rgb(231, 226, 226);
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Playfair Display', serif;
+    font-size: 65px;
+}
+    
+
+#name {
+    border-bottom: 1px solid #5e6063;
+}
+
+.jumbotron {
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 0;
+}
+
+.navbar {
+    height: 40px;
+}
+
+.icon {
+    font-size: 2.0em;
+    color: blanchedalmond;
+    margin-right: 15px;
+}
+
+.info {
+    background-color: #f2f5f7;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px black;
+    color: rgb(14, 13, 13);
+    font-family: 'Playfair Display', serif;
+}
+
+h2 {
+    border-bottom: 1px solid grey;
+    width: 15%;
+}
+
+#projects {
+    margin-top: 30px;
+    margin-left: 25px;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    border-bottom: 1px solid white;
+    width: 20%
+}
+
+.card {
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 20px;
+    display: inline-block;
+}
